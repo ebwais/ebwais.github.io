@@ -1,0 +1,19 @@
+body {
+	color:#080732;
+	font-family: Helvetica, sans-serif;
+ 	background: #F2FCFF;
+}
+
+h1 {
+	color:#CCEE00;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
