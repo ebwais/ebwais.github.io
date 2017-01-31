@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 @import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
@@ -7,8 +9,9 @@
 
 body {
 	color:#080732;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Tahoma', sans-serif;
  	background: #F2FCFF;
+ 	font-size: 14px;
 }
 
 h1 {
@@ -21,7 +24,9 @@ h1 {
 }
 
 #slogan {
-	font-style: italic;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 16px;
+	letter-spacing: .15em;
 }
 
 
@@ -31,34 +36,15 @@ ul {
 }
 
 #topic {
-	font-family: 'Press Start 2P', cursive;
-	font-size: 11px;
+	/*font-family: 'Press Start 2P', cursive;*/
+	/*font-size: 15px;
+	letter-spacing: .65px;*/
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 26px;
 }
-
-#topic2 {
-	font-family: 'Fredericka the Great', cursive;
-	font-size: 21px;
-}
-
-#topic3 {
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 21px;
-}
-
-
-#topic4 {
-	font-family: 'emily3font.ttf', sans-serif;
-	font-size: 21px;
-}
-
-#topic5 {
-	font-family: 'xxxx', sans-serif;
-	font-size: 21px;
-}
-
-
 
 #topicimage {
-	margin-top: 8px;
+	margin-top: -2px;
 	margin-bottom: 15px;
+
 }
