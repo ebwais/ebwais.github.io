@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Gudea');
+
+
+body {
+	color:#080732;
+	font-family: Helvetica, sans-serif;
+ 	background: #F2FCFF;
+}
+
+h1 {
+	color:#CCEE00;
+	font-family: 'Barrio', cursive;
+	font-style: italic;
+	font-size:95px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#topic {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 11px;
+}
+
+#topic2 {
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 21px;
+}
+
+#topic3 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 21px;
+}
+
+
+#topic4 {
+	font-family: 'emily3font.ttf', sans-serif;
+	font-size: 21px;
+}
+
+#topic5 {
+	font-family: 'xxxx', sans-serif;
+	font-size: 21px;
+}
+
+
+
+#topicimage {
+	margin-top: 8px;
+	margin-bottom: 15px;
+}
