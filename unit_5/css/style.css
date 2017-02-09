@@ -16,7 +16,13 @@ nav {
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
+    text-align: left;
 }
+
+/*#secondarynav {
+	float: right;
+    margin-top: -17px;
+}*/
 
 aside {
     background-color: #FFC675;
@@ -24,22 +30,27 @@ aside {
     padding: 20px;
 }
 
+
 .mini {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
+
 }
 
 .recent {
     background-color: #FFFFFF;
     border: 1px black solid;
     padding: 20px;
+
 }
+
 .featured {
     background-color: #AAAAAA;
     border: 1px black solid;
     padding: 20px;
 }
+
 footer {
     background-color: #FF957E;
     border: 1px black solid;
@@ -80,7 +91,7 @@ ul {
     list-style-type: none;
 }
 
-#topic {
+#postcategory {
 	/*font-family: 'Press Start 2P', cursive;*/
 	/*font-size: 15px;
 	letter-spacing: .65px;*/
@@ -88,10 +99,29 @@ ul {
 	font-size: 26px;
 }
 
-#topicimage {
+#category {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 12px;
+
+}
+#title {
+	font-size: 16px;
+	font-family: 'Noto Serif';
+}
+
+#description {
+	font-size: 14px;
+}
+
+#categoryimage {
 	margin-top: -1px;
 	margin-bottom: 15px;
 
 }
 
-
+#infobox {
+	 border: 1px black solid;
+	 margin: -5px 0px 10px 0px;
+	 background-color:#FFFFFF;
+	 width:150px;
+}
