@@ -38,6 +38,15 @@ aside {
 
 }
 
+#infobox {
+	 border: 1px black solid;
+	 margin: -5px 0px 10px 0px;
+	 background-color:#FFFFFF;
+	 width:150px;
+}
+
+
+}
 .recent {
     background-color: #FFFFFF;
     border: 1px black solid;
@@ -119,9 +128,3 @@ ul {
 
 }
 
-#infobox {
-	 border: 1px black solid;
-	 margin: -5px 0px 10px 0px;
-	 background-color:#FFFFFF;
-	 width:150px;
-}

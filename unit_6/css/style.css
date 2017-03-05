@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Gudea');
+
+header {
+    background-color: #EBE7F3;
+/*    background-color: #FFED74;*/
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+nav {
+    background-color: #D4E5E3;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: left;
+}
+#primarynav {
+	float: left;
+}
+
+#secondarynav {
+	float: right;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+#four_column {
+ /*   background-color: #D4CCDA;*/
+ 	background-color: #D4CCE3;
+    border: 1px black solid;
+    padding: 5px;
+}
+
+#first {
+/*    background-color: #E582A2;
+    border: 1px black solid;*/
+    padding: 10px;
+	/*    float:left;*/
+    width:20%;
+    margin: 10px;
+}
+
+#second {
+/*    background-color: #E582A2;
+    border: 1px black solid;*/
+    padding: 10px;
+	/*    float:left;*/
+    width:20%;
+    margin: 10px;
+}
+
+#third {
+/*    background-color: #E582A2;
+    border: 1px black solid;*/
+    padding: 10px;
+	/*    float:left;*/
+    width:20%;
+    margin: 10px;
+}
+
+#fourth {
+/*    background-color: #E582A2;
+    border: 1px black solid;*/
+    padding: 10px;
+	/*    float:left;*/
+    width:20%;
+    margin: 10px;
+}
+
+
+.mini {
+    background-color: #E2F748;
+    border: 1px black solid;
+    display: inline-block;
+    min-width:200px;
+    max-width: 200px;
+/*    padding: 1em;*/
+}
+
+#infobox {
+	 border: 1px black solid;
+	 margin: -5px 0px 10px 0px;
+	 background-color:#FFFFFF;
+	 width:150px;
+}
+
+
+
+
+#recentsection{
+ /*   background-color: #D4CCDA;*/
+ 	background-color: #ccee00;
+    border: 1px black solid;
+    padding: 5px;
+}
+
+#recent1 {
+    background-color: #F2FCFF;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    width: 20%;
+}
+
+#recent2 {
+    background-color: #F2FCFF;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    width: 20%;
+}
+
+#recent3 {
+    background-color: #F2FCFF;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    width: 20%;
+}
+.recentbox {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    min-width:200px;
+    max-width: 200px;
+    float:left;
+
+}
+/*#recent {
+	 border: 1px black solid;
+	 margin: -5px 0px 10px 0px;
+	 background-color:#D4CCE3;
+	 width:150px;
+}
+*/
+.featured {
+    background-color: #D4CCE3;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #D4E5E3;
+/*    background-color: #FF957E;*/
+    border: 1px black solid;
+    padding: 20px;
+}
+
+***div / section*** {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+	color:#080732;
+	font-family: 'Tahoma', sans-serif;
+ 	background: #F2FCFF;
+ 	font-size: 14px;
+}
+
+h1 {
+	color:#CCEE00;
+	font-family: 'Barrio', cursive;
+	font-style: italic;
+	font-size:95px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#slogan {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 16px;
+	letter-spacing: .15em;
+}
+
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#postcategory {
+	/*font-family: 'Press Start 2P', cursive;*/
+	/*font-size: 15px;
+	letter-spacing: .65px;*/
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 26px;
+}
+
+#category {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 12px;
+
+}
+#title {
+	font-size: 16px;
+	font-family: 'Noto Serif';
+}
+
+#description {
+	font-size: 14px;
+}
+
+#categoryimage {
+	margin-top: -1px;
+	margin-bottom: 15px;
+
+}
+
